@@ -4,7 +4,7 @@
 using namespace std;
 
 int main(int argc, char** argv) {
-	char str[]="devkaran";
+	char str[]="devkaran Lodhi Ji";
 	int len=(sizeof(str)/sizeof(str[0]))-1;
 	cout<<len<<endl;
 	cout<<str<<endl;
