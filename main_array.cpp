@@ -6,7 +6,7 @@ void fun1(string msg) {
     cout << "Message: 1 bt dev " << msg << endl;
 }
 void fun2(string msg) {
-    cout << "Message: " << msg << endl;
+    cout << "Message: 2 bt dev " << msg << endl;
 }
 void fun3(string msg) {
     cout << "Message: " << msg << endl;
